@@ -2,6 +2,6 @@
 
 JJ's SEM Notes
 
-## Hello World!
+## Hello!
 
 Hey! It's Me J, and these are my Notes!
